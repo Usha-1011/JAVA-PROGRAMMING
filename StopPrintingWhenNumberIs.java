@@ -12,7 +12,6 @@ class StopPrintingWhenNumberIs{
 		while(n!=11){
 			System.out.println(n) ;
 			n = sc.nextInt() ;
-
 		}
 	}
 }
